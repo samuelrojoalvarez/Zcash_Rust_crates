@@ -27,17 +27,17 @@ This repository gathers together several interdependent Rust crates that power Z
 
 ### Building
 
-·Clone this repository:
+-Clone this repository:
 
 ```bash
 git clone https://github.com/samuelrojoalvarez/Zcash_Rust_crates.git
 cd Zcash_Rust_crates
 ```
-·Build all crates:
+-Build all crates:
 ```bash
 cargo build --release
 ```
-·Testing
+-Testing
 ```bash
 cargo test
 ```
